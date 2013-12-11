@@ -15,7 +15,7 @@ import javax.mail.internet.InternetAddress;
 import javax.mail.internet.MimeMessage;
 /**
  *
- * @author Soulpain
+ * @author Roma Vernov <skynet.xilent@gmail.com>
  */
 public class Mailer {
     private Session session;
