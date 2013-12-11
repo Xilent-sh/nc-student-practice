@@ -21,6 +21,7 @@ public class Mailer {
     private Session session;
     
     private Mailer() {
+        // hi there
     }
     
     public static Mailer getInstance() {
