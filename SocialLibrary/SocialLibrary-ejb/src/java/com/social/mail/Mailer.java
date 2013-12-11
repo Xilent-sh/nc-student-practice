@@ -42,7 +42,7 @@ public class Mailer {
             Transport.send(msg);
 
         } catch (Throwable e) {
-            // hello
+            // hello world
         }
     }
 }
